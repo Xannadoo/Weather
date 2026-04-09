@@ -23,8 +23,8 @@ pip install -r requirements.txt
 
 ```env
 APIKEY=your_openweather_api_key
-LAT=55.7195
-LON=12.2113
+LAT=your_latitude
+LON=your_longitude
 ```
 
 ## Usage
